@@ -1,0 +1,3 @@
+# Hóa đơn là chứng từ nội bộ: không cho tải thẳng bằng đường dẫn.
+# Admin xem hóa đơn qua transactions/invoice.php?id=N (đã kiểm tra đăng nhập).
+Require all denied

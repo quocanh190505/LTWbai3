@@ -1,0 +1,4 @@
+# Thư mục tải lên (logo, hóa đơn): không bao giờ cho chạy mã PHP ở đây, phòng khi có tệp lạ lọt vào.
+<FilesMatch "\.(php|phtml|phar)$">
+    Require all denied
+</FilesMatch>
